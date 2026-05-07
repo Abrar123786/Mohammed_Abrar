@@ -53,17 +53,6 @@ A smart networking platform prototype for tech events and meetups that helps att
 - Modern responsive UI
 - Frontend prototype built using React
 
----
-
-## 📊 GitHub Stats
-
-![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar123786&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar123786&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Abrar123786&theme=tokyonight)
-
----
 
 ## ⚡ Fun Facts
 - I enjoy optimizing my time and maintaining discipline
