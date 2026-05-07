@@ -7,6 +7,16 @@
 
 ---
 
+---
+
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- Git & GitHub
+
+---
 ## 🧰 Technologies & Tools
 
 <p align="left">
