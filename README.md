@@ -50,5 +50,6 @@ Characteristics:
 - I like to learn by making things.
 
  --- 
- ## 📫 Get in Touch With Me
+ ## 📫 Connect With Me
 - GitHub: https://github.com/Abrar123786
+- LinkedIn: https://www.linkedin.com/in/mohammed-abrar-74665036b
