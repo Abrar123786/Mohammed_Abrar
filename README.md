@@ -1,17 +1,17 @@
-Hey there! My name is Mohammed Abrar.
+# Hi 👋, I'm Mohammed Abrar
 
-🎓 2nd Year Computer Science Engineering Student at VVCE Mysore 💻 Frontend Developer currently learning the MERN Stack  
+🎓 2nd Year Computer Science Engineering Student at VVCE Mysore  
+💻 Frontend Developer currently learning the MERN Stack  
+🚀 Interested in Web Development, AI, and Software Engineering  
+🌱 Improving my Data Structures & Algorithms problem-solving skills  
 
-🚀 I want to learn more about web development, AI, and software engineering. 🌱 I'm working on getting better at solving problems with data structures and algorithms.  
+---
 
- ---
+## 🧰 Technologies & Tools
 
- ## 🛠 Tech Stack
-- HTML
-- CSS
-- JavaScript
-- React
-- Git & GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode,docker" />
+</p>
 
 ---
 
@@ -22,34 +22,46 @@ Hey there! My name is Mohammed Abrar.
 - Node.js
 - Docker Basics
 
+---
 
- ---
- 
- ## 🎯 Goals 
-- Get really good at being a Full Stack Developer
-- Make web apps that can grow in the real world
-- Help with tech projects that make a difference
-- Make coding more consistent and speed up problem-solving
+## 🎯 Goals
+- Become a strong Full Stack Developer
+- Build real-world scalable web applications
+- Improve problem solving and coding consistency
+- Contribute to impactful tech projects
 
- --- 
- 
-  ## 📌 Projects ### 🚀 AI for DevConnect
-  A prototype for a smart networking platform for tech events and meetups that helps people meet based on their skills,      interests, and goals.
+---
 
-Characteristics:
-- Matching profiles in a smart way
-- Interface for networking at events
-- UI that responds to modern needs
-- Prototype of the frontend made with React
+## 📌 Featured Project
 
- --- 
- 
- ## ⚡ Interesting Facts
-- I like to make the most of my time and stay on track.
-- I code on a regular basis to get better at it.
-- I like to learn by making things.
+### 🚀 DevConnect AI
+A smart networking platform prototype for tech events and meetups that helps attendees connect based on skills, interests, and goals.
 
- --- 
- ## 📫 Connect With Me
+#### Features
+- Smart profile matching
+- Event networking interface
+- Modern responsive UI
+- Frontend prototype built using React
+
+---
+
+## 📊 GitHub Stats
+
+![Abrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar123786&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar123786&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Abrar123786&theme=tokyonight)
+
+---
+
+## ⚡ Fun Facts
+- I enjoy optimizing my time and maintaining discipline
+- I practice coding regularly to improve consistency
+- I like learning by building real-world projects
+
+---
+
+## 📫 Connect With Me
 - GitHub: https://github.com/Abrar123786
 - LinkedIn: https://www.linkedin.com/in/mohammed-abrar-74665036b
